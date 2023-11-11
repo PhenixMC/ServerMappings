@@ -1,1 +1,33 @@
-
+{
+    "id": "phenixmc",
+    "name": "PhenixMc",
+    "description": "Minecraft SurvivalRPG Project.",
+    "addresses": [
+        "play.phenixmc.eu"
+    ],
+    "primaryAddress": "play.phenixmc.eu",
+    "minecraftVersions": [
+        "1.20.2"
+    ],
+    "primaryMinecraftVersion": "1.20.2",
+    "primaryColor": "#e34234",
+    "secondaryColor": "#f28500",
+    "primaryLanguage": "en",
+    "languages": [
+        "fr",
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "SurvivalRPG"
+    ],
+    "website": "https://www.phenixmc.eu/",
+    "store": "https://www.phenixmc.eu/",
+    "socials": {
+        "discord": "https://www.phenixmc.eu/"
+    },
+    "crossplay": false
+}
